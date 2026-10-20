@@ -1,14 +1,16 @@
 // ==UserScript==
 // @name            Tiberium Alliances Battle Simulator V2
-// @description     Allows you to simulate combat before actually attacking.
-// @author          Eistee & TheStriker & VisiG & Lobotommi & XDaast
-// @version         23.05.31
+// @description     Battle simulator for Tiberium Alliances. Maintained fork - see NOTICE.md for provenance and license status.
+// @author          Eistee, TheStriker, VisiG, Lobotommi, XDaast (original) - NetquiK [SoO] (2019-2023) - Ghozt [SoO] (maintained fork, 2026-)
+// @version         26.10.20
 // @contributor     zbluebugz (https://github.com/zbluebugz) changed cncopt.com code block to cnctaopt.com code block
 // @contributor     NetquiK (https://github.com/netquik) (see first comment for changelog)
 // @namespace       https://cncapp*.alliances.commandandconquer.com/*/index.aspx*
 // @match           https://*.alliances.commandandconquer.com/*/index.aspx*
 // @icon            http://eistee82.github.io/ta_simv2/icon.png
-// @updateURL       https://raw.githubusercontent.com/netquik/CnCTA-SoO-SCRIPT-PACK/master/TA_Tiberium_Alliances_Battle_Simulator_V2.user.js
+// @homepage        https://github.com/Ghoztmaster/TA-battle-sim-v2
+// @updateURL       https://packetlab.nl/shockr/scripts/TA_Tiberium_Alliances_Battle_Simulator_V2.user.js
+// @downloadURL     https://packetlab.nl/shockr/scripts/TA_Tiberium_Alliances_Battle_Simulator_V2.user.js
 // ==/UserScript==
 
 /* 
